@@ -1,0 +1,10 @@
+{
+  "name": "car-website-frontend",
+  "version": "1.0.0",
+  "description": "Frontend-only car dealership website",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser or use: python -m http.server 8000'",
+    "serve": "http-server"
+  }
+}
+
